@@ -75,9 +75,3 @@ The dashboard provides business insights related to:
 * Revenue trend visualization
 
 ---
-
-
-## dataset
-
-[Ecom.xlsx](https://github.com/user-attachments/files/28138188/Ecom.xlsx)
-
